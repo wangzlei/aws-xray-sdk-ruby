@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/aws/aws-xray-sdk-ruby.svg?branch=master)](https://travis-ci.org/aws/aws-xray-sdk-ruby)
 
-![Coverage](https://wangzlei.github.io/aws-xray-sdk-ruby/badges/coverage_badge_total.png)
-![Coverage1](https://wangzlei.github.io/aws-xray-sdk-ruby/coverage_badge_total.svg)
+[![Coverage](https://wangzlei.github.io/aws-xray-sdk-ruby/badges/coverage_badge_total.png)](https://travis-ci.org/aws/aws-xray-sdk-ruby)
+[![Coverage1](https://wangzlei.github.io/aws-xray-sdk-ruby/coverage_badge_total.svg)](https://travis-ci.org/aws/aws-xray-sdk-ruby)
 
 # AWS X-Ray SDK for Ruby (beta)
 
